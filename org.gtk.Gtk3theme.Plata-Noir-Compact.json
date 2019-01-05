@@ -1,17 +1,19 @@
 {
   "id": "org.gtk.Gtk3theme.Plata-Noir-Compact",
-  "branch": "3.24",
-  "runtime": "org.gnome.Sdk",
+  "branch": "3.22",
+  "runtime": "org.freedesktop.Platform",
+  "sdk": "org.freedesktop.Sdk",
+  "runtime-version": "1.6",
   "build-extension": true,
-  "sdk": "org.gnome.Sdk",
-  "runtime-version": "3.30",
   "appstream-compose": false,
   "separate-locales": false,
+  "build-options": {
+    "prefix": "/usr/share/runtime"
+  },
   "modules": [
     {
-      "name": "Plata-Noir-Compact",
+      "name": "plata-theme-flatpak",
       "config-opts": [
-        "--prefix=/usr/share/runtime",
         "--disable-mixed",
         "--disable-light",
         "--enable-dark",
