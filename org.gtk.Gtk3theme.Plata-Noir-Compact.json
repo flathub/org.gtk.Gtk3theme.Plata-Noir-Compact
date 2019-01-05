@@ -1,6 +1,6 @@
 {
   "id": "org.gtk.Gtk3theme.Plata-Noir-Compact",
-  "branch": "3.24",
+  "branch": "3.22",
   "runtime": "org.freedesktop.Platform",
   "sdk": "org.freedesktop.Sdk",
   "runtime-version": "1.6",
