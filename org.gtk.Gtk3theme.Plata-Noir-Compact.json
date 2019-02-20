@@ -22,8 +22,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gitlab.com/tista500/plata-theme-flatpak/-/archive/0.5.93/plata-theme-flatpak-0.5.93.tar.gz",
-          "sha256": "ad1a961a155687f18f27b53a583947938b69d5f3c40c289e93193eb3d6320431"
+          "url": "https://gitlab.com/tista500/plata-theme-flatpak/-/archive/0.5.94/plata-theme-flatpak-0.5.94.tar.gz",
+          "sha256": "b26cea5858b1d0b9e0f58190286cdc5b326409185ea9e0ef7f62e1e13e4e79e3"
         }
       ]
     },
